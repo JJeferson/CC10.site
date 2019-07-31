@@ -16,19 +16,7 @@ Esse mySQL do PhP my Admin tá me dando medo e nervos.
 
 SELECT count(cpf) FROM `usuarios`
 
-acesso: https://vps202288.battlecloud.club:8443
-usuário: jeferfire
-senha: oaE0y3?9
 
-Em seguida acesse seu registrador de domínios e aponte para a nuvem usando os seguintes nameservers:
-
-ns1.vps202288.battlecloud.club
-ns2.vps202288.battlecloud.club
-
-
-
-util
-http://php.net/manual/pt_BR/function.strcasecmp.php
 */
 create table usuarios (
        id int not null PRIMARY KEY AUTO_INCREMENT,
