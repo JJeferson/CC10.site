@@ -3,23 +3,9 @@
     Não perder https://hospedameusite.com.br/
 
 
-     GoDaddy
-     https://br.godaddy.com
-     Loguei lá com Facebook.
-     cc10.site
 
 
 
-localhost:3306
-senha do banco de dados 
-0047%355jefer
-nome do banco jeferfire_
-localhost:3306
-
-
-    acesso: https://vps202288.battlecloud.club:8443
-    usuário: jeferfire
-    senha: oaE0y3?9
    */
     session_start();
     $emailAdm        = $_SESSION['email'];
