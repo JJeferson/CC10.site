@@ -1,12 +1,5 @@
 <?php
-   /**  
-    Não perder https://hospedameusite.com.br/
-
-
-
-
-
-   */
+   
     session_start();
     $emailAdm        = $_SESSION['email'];
     $CPFRecrutador   = $_SESSION['CPF'];
