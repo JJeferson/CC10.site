@@ -1,8 +1,6 @@
 <?php
 
- /**  
-    Não perder https://hospedameusite.com.br/
-   */
+
 
 /**   Os inserts na usuarios e na curriculos devem ocorrer na hora do cadastro.
 Depois disso na hora do real cadastro dos dados cadastrais será apenas um update tornando assim mais simples
